@@ -1,6 +1,3 @@
-# html5-workshop.
-HTML5 Mastery Workshop: A hands-on guide to web fundamentals. Covers document structure, semantic tags, forms, and multimedia. Designed for students and aspiring developers to learn by doing. 🚀💻
-
 # 🌐 HTML5 Fundamentals Workshop: The Architecture of the Web
 
 Welcome! This repository contains the practical code and examples used in my **HTML5 Fundamentals Workshop**. It is designed as a hands-on guide to help students and aspiring developers understand the core building blocks of web development.
